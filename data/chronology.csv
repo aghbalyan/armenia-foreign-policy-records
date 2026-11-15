@@ -1,0 +1,32 @@
+event_id,date_start,date_end,year_inferred,date_as_written,event,details
+1,2020-11-10,2020-11-10,no,"Nov 10, 2020",Unrest in Yerevan,"People have gathered in front of the Government building calling “Nikol, traitor!”. They called for the cancellation of November 9 document."
+2,2020-11-10,2020-11-10,no,"Nov 10, 2020",Russian Peacekeepers,Russia has sent 1960 peacekeepers and 470 units of munitions.
+3,2021-01-11,2021-01-11,no,"Jan 11, 2021","Trilateral (Rus, Arm, Az)",The announcement about creating a trilateral Working Group for opening communications according to paragraph 9 of Nov 9 statement.
+4,2021-04-25,2021-04-25,no,"April 25, 2021",Pashinyan resigns,Armenian PM resigns in the face of political and military opposition to have snap elections.
+5,2021-05-12,2021-05-12,no,"May 12, 2021",Azeri forces advance inside Armenia proper,"Azeris cross the border near the Black Lake and advance 3,5 km. Arm government dismissed Azerbaijan’s excuse based on some maps: “we have maps […] that clearly show how the border [goes].”"
+6,2021-07-03,2021-07-03,no,"July 3, 2021",CSTO qualifies “border incident”,"Secretary General Stanislav Zas: “What we’re dealing with here is, essentially, a border incident.”"
+7,2021-11-26,2021-11-26,no,"Nov 26, 2021",Sochi trilateral meeting,Initiation of bilateral commission on delimitation and demarcation among other things
+8,2021-12-14,2021-12-14,no,"Dec 14, 2021",First Brussels Meeting,"Aliyev insists here that Zangezur corridor be operating in the same way as Lachin corridor, while N. Pashinyan says that it drives the opening of communications to a dead-end."
+9,2022-02-04,2022-02-04,no,"Feb 4, 2022",Virtual EU-France-Armenia-Azerbaijan Summit,Initiation of EU-France-Armenia-Azerbaijan format.
+10,2022-04-06,2022-04-06,no,"April 6, 2022",Trilateral in Brussels (EU-ARM-AZ),Deadline to set up the delimitation/demarcation committee by the end of the month. Foreign ministers to start preparations for peace talks. Meanwhile US and France refuse to work with Russia in OSCE framework.
+11,2022-09-13,2022-09-14,yes,Sep 13-14,Largest offensive since 44-day war,"Large offensive on the border of Armenia in Gegharkunik, Vayots Dzor, Syunik. AZ accused ARM of provocations in Dashkasan, Kalbajar, Lachin. ~300 killed. Over 7,600 displaced."
+12,2022-10-06,2022-10-06,no,"Oct 6, 2022",Prague European Political Community Summit,EU to send Civilian Mission to the Armenian border with Azerbaijan. Both countries reinstated their commitment to the 1991 Alma-Ata. 44 European countries present excluding Russia and Belarus. Pivot to the West.
+13,2022-12-12,2022-12-12,no,"Dec 12, 2022",Lachin corridor blockade,"“eco-activists” had again blocked the only road connecting NKR to Armenia, this time setting stone to the humanitarian crisis."
+14,2023-02-18,2023-02-18,no,"Feb 18, 2023",ARM-US-AZ Trilateral,USA enters as a mediator
+15,2023-02-22,2023-02-22,no,"Feb 22, 2023",ICJ provision to AZ,ICJ voted 13-2 in favor of the provision to Azerbaijan requesting to open Lachin corridor to unimpeded movement.
+16,2023-04-23,2023-04-23,no,"April 23, 2023",AZ to install checkpoint on Lachin corridor,Another breach of the Nov 9 agreement—setting a checkpoint on Lachin—stating that Armenia transports munitions to NKR and sets landmines.
+17,2023-07-15,2023-07-15,no,"July 15, 2023",Brussels meeting,One more trilateral with the EU with no significant outcomes.
+18,2023-09-19,2023-09-19,no,"Sep 19, 2023",Ethnic cleansing,"The 24-hour “Anti-Terrorist Operation” added to more than 9 months of blockade resulted in the exodus of over 100,000 to Armenia. The next day protests began in Yerevan against the PM for failing to protect compatriots in NKR."
+19,2023-10-03,2023-10-03,no,"Oct 3, 2023",EU Charles Michel remarks,“It is obvious that Russia has betrayed the Armenian people. […] Azerbaijan conducted military action with no reaction from [Russian] peacekeepers”.
+20,2023-10-04,2023-10-04,no,"Oct 4, 2023",Detainment of officials,"By October 4, most high-ranking government officials were captured and sent to Baku. Sham trials begin Jan 17, 2025."
+21,2024-02-22,2024-02-22,no,"Feb 22, 2024",Freeze CSTO membership,N. Pashinyan mentions in France 24 interview that Armenia has essentially frozen its membership in CSTO because of failure to come to Armenia’s defence.
+22,2024-04-19,2024-04-19,no,"Apr 19, 2024",8th meeting of the Commission on Delimitation,Azerbaijan gained back its full control over 4 border villages which used to be neutral zones. Agreed to deploy border services to those sections of the borderline.
+23,2024-04-20,2024-04-20,no,"Apr 20, 2024",Protests begin in Voskepar,"People are against the delimitation protests claiming that Armenian roads are being handed over. Bagrat Srbazan’s reached the republic square on May 9 where ~20,000 people gathered demanding Pashinyan’s resignation."
+24,2024-07-30,2024-07-30,no,"Jul 30, 2024",Alican-Margara meet,Turkish Ambassador Serdar Kilic and Armenian parliament deputy speaker Ruben Rubinyan met to discuss normalization of relations. They first met in Jan 2022.
+25,2024-09-26,2024-09-26,no,"Sep 26, 2024",Trilateral in New York,Meeting of Foreign Affairs ministers of both countries hosted by Secretary of State Blinken.
+26,2024-10-08,2024-10-08,no,"Oct 8, 2024",Russian Border Guards,"Armenia announced that starting Jan 1, 2025, Russian border guards will cease operation at the Armenian-Iranian border checkpoint."
+27,2024-10-24,2024-10-24,no,"Oct 24, 2024",16th BRICS Summit,"Pashinyan and Aliyev met in Kazan, Russia, on the sidelines of BRICS summit."
+28,2024-11-14,2024-11-14,no,"Nov 14, 2024",COP29,According to a senior MP Sargis Khandanyan Armenian did not participate in COP29 due to Azerbaijan’s failure to release at least 23 Armenian prisoners.
+29,2025-04-17,2025-04-17,no,"Apr 17, 2025",Trilateral in Tbilisi,At the initiative of Georgian foreign minister a trilateral meeting took place to advance cooperation and development across the countries of South Caucasus.
+30,2025-08-08,2025-08-08,no,"Aug 8, 2025",Trilateral summit in DC,A joint declaration signed by Armenia and Azerbaijan and US as a witness. Trump Route for International Peace and Prosperity
+31,2025-09-02,2025-09-02,no,"Sep 2, 2025",Minsk Group dissolution,OSCE Minsk Group serving to mediate in the Nagorno-Karabakh conflict will be dissolved by the end of 2025.

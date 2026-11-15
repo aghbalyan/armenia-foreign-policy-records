@@ -1,0 +1,31 @@
+row_id,org_id,organization,established,funder,period_start,period_end,amount_as_written,source_url
+1,1,CivilNet / Civilitas Foundation,2011 / 2008,Jon Huntsman (private philanthropy),2010,2010,"$1,400,000",https://www.azatutyun.am/a/25055998.html
+2,1,CivilNet / Civilitas Foundation,2011 / 2008,USAID,2023,2025,Amount not disclosed (part of $15M Media Program),https://www.civilnet.am/en/news/814706/the-us-has-frozen-foreign-aid-how-does-this-affect-the-armenian-media/
+3,2,Hetq Investigative Journalists NGO,2001,OSF,2009,2022,,
+4,2,Hetq Investigative Journalists NGO,2001,NED,2017,2024,"$305,965 (OSF + NED) (2017)",https://hyetert.org/2021/06/16/the-story-of-foreign-money-in-armenia-2/
+5,2,Hetq Investigative Journalists NGO,2001,USAID,2018,2025,Amount not disclosed,https://www.civilnet.am/en/news/814706/the-us-has-frozen-foreign-aid-how-does-this-affect-the-armenian-media/
+6,2,Hetq Investigative Journalists NGO,2001,EU,2020,2023,Amount not disclosed (European Media Facility consortium),https://akademie.dw.com/en/dw-akademie-in-armenia/a-60173360
+7,3,Factor TV / Factor Information Center,2016,OSF,2016,2022,"$513,905 (trend spiked after 2019)",https://thearmenite.com/2021/06/foreign-money-in-armenia-ngo-media-funding/
+8,3,Factor TV / Factor Information Center,2016,USAID,2023,2025,Amount not disclosed (part of $15M Media Program),https://www.civilnet.am/en/news/814706/the-us-has-frozen-foreign-aid-how-does-this-affect-the-armenian-media/
+9,3,Factor TV / Factor Information Center,2016,EU,2020,2023,Amount not disclosed (European Media Facility consortium),https://www.bbc.co.uk/mediaaction/where-we-work/europe-and-caucasus/armenia-partners
+10,4,Union of Informed Citizens,2014,OSF,2015,2019,"$400,000",
+11,4,Union of Informed Citizens,2014,NED,2016,2024,"$67,500 and $91,000 grant (Over $1 million NED + OSF 2016-2020)",
+12,4,Union of Informed Citizens,2014,USAID,2018,2025,Amount not disclosed,
+13,4,Union of Informed Citizens,2014,Democracy Development Foundation,2025,2025,"3,968,300 AMD",https://demdev.org/2025/03/26/union-of-informed-citizens-ngo-3/
+14,5,Transparency International Anti-Corruption Center,2001,OSF,2010,2022,"($336,000 in 2018)",https://thearmenite.com/2021/06/foreign-money-in-armenia-ngo-media-funding/
+15,5,Transparency International Anti-Corruption Center,2001,NED,2010,2024,Amount not disclosed,https://thearmenite.com/2021/06/foreign-money-in-armenia-ngo-media-funding/
+16,5,Transparency International Anti-Corruption Center,2001,EU,2010,2025,Amount not disclosed,https://epde.org/organizations/transparency-international-anticorruption-center/
+17,6,Helsinki Citizens' Assembly - Vanadzor,1998,OSF,2010,2022,"$800,000+ (including $114,720 in 2018 and $130,000 in 2019)",https://thearmenite.com/2021/06/foreign-money-in-armenia-ngo-media-funding/
+18,6,Helsinki Citizens' Assembly - Vanadzor,1998,NED,2010,2024,Amount not disclosed,https://thearmenite.com/2021/06/foreign-money-in-armenia-ngo-media-funding/
+19,6,Helsinki Citizens' Assembly - Vanadzor,1998,Sida (Sweden),2023,2027,"1,800,000 SEK (~$170,000 USD annually)",https://openaid.se/en/contributions/SE-0-SE-6-16523
+20,7,Regional Studies Center,2008,NED,2008,2025,"$200,000+ (Democracy Program)",
+21,8,Yerevan Press Club,1995,USAID,2006,2025,Amount not disclosed,https://ypc.am/
+22,9,Haykakan Zhamanak newspaper,1999,NED,2016,2017,"$81,265",
+23,10,Women's Resource Center,1994,OSF,1997,2022,(part of $1.5M women's rights investment),https://www.opensocietyfoundations.org/uploads/9ace9bde-83cc-43d4-95e1-53f8b95fce46/factsheet-osf-armenia-eng-20180220.pdf
+24,10,Women's Resource Center,1994,Sida (Sweden),2021,2025,22M SEK - ~1.2million EUR,https://openaid.se/en/contributions/SE-0-SE-6-15077
+25,11,Women Support Center NGO,2010,OSF,1997,2022,(part of $1.5M women's rights investment),
+26,12,American University of Armenia,1991,USAID,1991,2025,"$1,800,000+ (STEM lab documented), plus Microsoft Innovation Center establishment",
+27,13,Yerevan State University,1919,OSF,1998,2022,"$770,267+ (32 grants documented 1998-2014)",https://www.civilnet.am/en/news/383408/soros-open-society-foundations-and-activities-in-armenia/
+28,14,National Library of Armenia,1832,OSF,2000,2005,"$614,065",https://thearmenite.com/2021/06/foreign-money-in-armenia-ngo-media-funding/ ; https://www.civilnet.am/en/news/383408/soros-open-society-foundations-and-activities-in-armenia/
+29,15,Restart Foundation,2018,OSF,2015,2022,"$40,000 documented (2018)",https://www.azatutyun.am/a/29805166.html
+30,15,Restart Foundation,2018,NED,2010,2024,Amount not disclosed,https://www.ned.org/armenian-youth-network-gives-students-a-voice-in-democracy/
