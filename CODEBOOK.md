@@ -10,7 +10,7 @@
 | `date_end` | Last day of the event; same as `date_start` for one-day events |
 | `year_inferred` | `yes` if the original gave no year and the year of the row above was used (event 11 only) |
 | `date_as_written` | The date exactly as typed in the original |
-| `event` | Short name of the event, as written (three spelling slips corrected; see `scripts/build_data.py`) |
+| `event` | Short name of the event, as written |
 | `details` | Description, as written |
 
 ## data/statements.csv (one row per dated entry)
