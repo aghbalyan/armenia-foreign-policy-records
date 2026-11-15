@@ -39,7 +39,7 @@ python3 scripts/build_data.py    # rebuilds chronology.csv and statements.csv fr
 python3 scripts/check_data.py    # validates all four tables and lists entries to review
 ```
 
-`build_data.py` copies the text as written, adds ISO dates, lists the officials named in each statement, and corrects three spelling slips (listed at the top of the script). `democracy_assistance.csv` and `funder_totals.csv` were transcribed by hand from the original report, with each footnote resolved to its URL; the report itself is not included.
+`build_data.py` copies the text as written, adds ISO dates, and lists the officials named in each statement. `democracy_assistance.csv` and `funder_totals.csv` were transcribed by hand from the original report, with each footnote resolved to its URL; the report itself is not included.
 
 ## Provenance
 
