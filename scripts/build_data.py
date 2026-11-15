@@ -6,9 +6,8 @@ Writes  data/chronology.csv
         data/statements.csv
 
 The text of every entry is copied as written in the Word files. The script
-adds a machine-readable date next to the date as originally typed, lists the
-officials named in each statement, and fixes the three spelling slips listed
-in SPELLING below. Nothing else is corrected or re-worded.
+adds a machine-readable date next to the date as originally typed and lists
+the officials named in each statement. The text itself is not changed.
 
 Uses only the Python standard library. Run from the repository root:
     python3 scripts/build_data.py
@@ -27,21 +26,8 @@ MONTHS = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
           "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
 
 
-# Spelling slips in the originals, fixed in the output (original -> corrected).
-SPELLING = {
-    "Lachin corridoe": "Lachin corridor",
-    "1991 Ama-Ata": "1991 Alma-Ata",
-    "this timesetting": "this time setting",
-}
-
 # Officials whose names are searched for in each statement entry.
 OFFICIALS = ["Pashinyan", "Mirzoyan", "Simonyan", "Putin", "Lavrov", "Zakharova", "Peskov"]
-
-
-def fix_spelling(text):
-    for wrong, right in SPELLING.items():
-        text = text.replace(wrong, right)
-    return text
 
 
 def docx_xml(path):
@@ -71,7 +57,7 @@ def build_chronology():
     last_year = None
     for row in rows[1:]:                      # rows[0] is the header row
         cells = re.findall(r"<w:tc[ >].*?</w:tc>", row, flags=re.S)
-        written, event, details = [fix_spelling(" ".join(paragraphs(c))) for c in cells]
+        written, event, details = [" ".join(paragraphs(c)) for c in cells]
 
         full = re.match(r"^([A-Za-z]+)\.? (\d{1,2}), (\d{4})$", written)
         span = re.match(r"^([A-Za-z]+)\.? (\d{1,2})-(\d{1,2})$", written)
